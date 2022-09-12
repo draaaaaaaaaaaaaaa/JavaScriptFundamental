@@ -31,3 +31,6 @@ const z = 100;
 console.log(z);
 z = 200;
 console.log(z)
+
+//inti nya const kayak va1 let kaya var
+// jadi const g bisa diubah let bisa
